@@ -20,6 +20,7 @@
 | [`ParallelFileReader`](./ParallelFileReader)           | Reads files asynchronously and prints content information to the console.              |
 | [`MultiImageDownloader`](./MultiImageDownloader)     | It permits to download multiple imagenes en orden                      |
 | [`TodoList`](./TodoList)     | This is a todo app the simulate notifications                    |
+| [`ChatApp`](./ChatApp)     | It permits the console communication between consoles                    |
 
 > ⚙️ *This list will grow as I progress. Stay tuned for more!*
 
