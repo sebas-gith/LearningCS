@@ -21,6 +21,7 @@
 | [`MultiImageDownloader`](./MultiImageDownloader)     | It permits to download multiple imagenes en orden                      |
 | [`TodoList`](./TodoList)     | This is a todo app the simulate notifications                    |
 | [`ChatApp`](./ChatApp)     | It permits the console communication between consoles                    |
+| [`MemorizeNumber`](./MemorizeNumber) | App with winform to improve your memory |
 
 > ⚙️ *This list will grow as I progress. Stay tuned for more!*
 
